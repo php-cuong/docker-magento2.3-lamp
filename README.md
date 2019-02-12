@@ -1,5 +1,5 @@
 # How to install Magento 2.3 on localhost
-How to install Magento 2.3 with Docker Compose on Windows 10 Pro. In the previous lesson, I showed everybody how to install Magento 2.2.x on Windows 10 Pro, today I show everybody installing Magento 2.3.
+How to install Magento 2.3 with Docker Compose on Windows 10 Pro. In the previous lesson, I showed everybody how to install Magento 2.2.x on Windows 10 Pro in the video link https://www.youtube.com/watch?v=akcaOBrLTzM&list=PL98CDCbI3TNvPczWSOnpaMoyxVISLVzYQ, today I show everybody installing Magento 2.3.
 
 ## The basic System Requirements:
     - Windows 10 64bit: Pro, Enterprise or Education (1607 Anniversary Update, Build 14393 or later). You can check Windows 10 Build Version on your computer by going to Run → enter the "winver".
